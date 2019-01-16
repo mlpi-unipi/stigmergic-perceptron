@@ -1,0 +1,1526 @@
+****************************************************************************************************
+Starting 'Training filter for class 2' at Mar 15, 18:26.
+Number of possible parameter vectors: 2.47572e+12
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_02.mat.
+****************************************************************************************************
+Initial parameter set.
+Best member:
+stage1_alpha   = 0.281; 
+stage1_beta    = 0.32; 
+stage1_gamma   = 0.46; 
+stage1_lambda  = 0.94; 
+stage2_delta   = 0.091; 
+stage2_epsilon = 0.34; 
+stage4_alpha   = 0.301; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.178297
+
+In initialization, 24 of 80 members checked.
+Best member:
+stage1_alpha   = 0.211; 
+stage1_beta    = 0.48; 
+stage1_gamma   = 0.63; 
+stage1_lambda  = 0.91; 
+stage2_delta   = 0.201; 
+stage2_epsilon = 0.18; 
+stage4_alpha   = 0.341; 
+stage4_beta    = 0.76; 
+Evaluation value: 0.173880
+
+In initialization, 28 of 80 members checked.
+Best member:
+stage1_alpha   = 0.081; 
+stage1_beta    = 0.52; 
+stage1_gamma   = 0.56; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.17; 
+stage4_alpha   = 0.021; 
+stage4_beta    = 0.94; 
+Evaluation value: 0.137660
+
+In initialization, 39 of 80 members checked.
+Best member:
+stage1_alpha   = 0.121; 
+stage1_beta    = 0.32; 
+stage1_gamma   = 0.4; 
+stage1_lambda  = 0.82; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.25; 
+stage4_alpha   = 0.221; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.070869
+
+In initialization, 64 of 80 members checked.
+ 
+Elapsed time:                   9.91 seconds
+Number of function evaluations: 64
+Mean function evaluation time:  0.15 seconds
+
+In iteration 1, 38 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.301; 
+stage1_beta    = 0.53; 
+stage1_gamma   = 0.69; 
+stage1_lambda  = 0.84; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.22; 
+stage4_alpha   = 0.231; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.068467
+
+In iteration 1, 57 of 80 competitors checked.
+ 
+Elapsed time:                   19 seconds
+Number of function evaluations: 130
+Mean function evaluation time:  0.15 seconds
+
+In iteration 2, 16 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.231; 
+stage1_beta    = 0.43; 
+stage1_gamma   = 0.62; 
+stage1_lambda  = 0.99; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.12; 
+stage4_alpha   = 0.311; 
+stage4_beta    = 0.92; 
+Evaluation value: 0.065912
+
+In iteration 2, 37 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.39; 
+stage1_gamma   = 0.64; 
+stage1_lambda  = 0.96; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.171; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.055917
+
+In iteration 2, 54 of 80 competitors checked.
+ 
+Elapsed time:                   29 seconds
+Number of function evaluations: 196
+Mean function evaluation time:  0.15 seconds
+
+In iteration 3, 1 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.151; 
+stage1_beta    = 0.36; 
+stage1_gamma   = 0.69; 
+stage1_lambda  = 0.99; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.13; 
+stage4_alpha   = 0.291; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.051882
+
+In iteration 3, 8 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.151; 
+stage1_beta    = 0.4; 
+stage1_gamma   = 0.64; 
+stage1_lambda  = 0.82; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.311; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.047383
+
+In iteration 3, 10 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.65; 
+stage1_lambda  = 0.99; % (boundary value)
+stage2_delta   = 0.231; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.046306
+
+In iteration 3, 32 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.46; 
+stage1_gamma   = 0.48; 
+stage1_lambda  = 0.81; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.030054
+
+In iteration 3, 44 of 80 competitors checked.
+ 
+Elapsed time:                   39 seconds
+Number of function evaluations: 263
+Mean function evaluation time:  0.15 seconds
+
+In iteration 4, 35 of 80 competitors checked.
+ 
+Elapsed time:                   49 seconds
+Number of function evaluations: 330
+Mean function evaluation time:  0.15 seconds
+
+In iteration 4, 36 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.43; 
+stage1_gamma   = 0.49; 
+stage1_lambda  = 0.83; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.029754
+
+In iteration 4, 47 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.48; 
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.027196
+
+In iteration 5, 41 of 80 competitors checked.
+ 
+Elapsed time:                   59 seconds
+Number of function evaluations: 398
+Mean function evaluation time:  0.15 seconds
+
+In iteration 6, 29 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 9 seconds
+Number of function evaluations: 464
+Mean function evaluation time:  0.15 seconds
+
+In iteration 6, 31 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.46; 
+stage1_gamma   = 0.65; 
+stage1_lambda  = 0.84; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.026736
+
+In iteration 6, 68 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.42; 
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.026609
+
+In iteration 7, 17 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 19 seconds
+Number of function evaluations: 532
+Mean function evaluation time:  0.15 seconds
+
+In iteration 7, 24 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.44; 
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.98; 
+Evaluation value: 0.026244
+
+In iteration 7, 31 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.59; 
+stage1_lambda  = 0.76; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.16; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.026110
+
+In iteration 7, 36 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.39; 
+stage1_gamma   = 0.69; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.025908
+
+In iteration 8, 4 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 29 seconds
+Number of function evaluations: 598
+Mean function evaluation time:  0.15 seconds
+
+In iteration 8, 22 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.011; 
+stage1_beta    = 0.38; 
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.025045
+
+In iteration 8, 62 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.023697
+
+In iteration 8, 72 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 39 seconds
+Number of function evaluations: 665
+Mean function evaluation time:  0.15 seconds
+
+In iteration 9, 59 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 49 seconds
+Number of function evaluations: 732
+Mean function evaluation time:  0.15 seconds
+
+In iteration 10, 46 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes
+Number of function evaluations: 799
+Mean function evaluation time:  0.15 seconds
+
+Iteration 10 finished.
+In iteration 11, 10 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.69; 
+stage1_lambda  = 0.75; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.023017
+
+In iteration 11, 39 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 9 seconds
+Number of function evaluations: 872
+Mean function evaluation time:  0.14 seconds
+
+In iteration 12, 31 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 19 seconds
+Number of function evaluations: 943
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        3
+
+In iteration 12, 48 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.32; 
+stage1_gamma   = 0.69; 
+stage1_lambda  = 0.74; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022755
+
+In iteration 12, 77 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.97; 
+Evaluation value: 0.022262
+
+In iteration 13, 24 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 29 seconds
+Number of function evaluations: 1016
+Mean function evaluation time:  0.14 seconds
+
+In iteration 14, 18 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 39 seconds
+Number of function evaluations: 1089
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        2
+
+In iteration 14, 48 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.73; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022198
+
+In iteration 15, 12 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 49 seconds
+Number of function evaluations: 1161
+Mean function evaluation time:  0.14 seconds
+
+In iteration 16, 7 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 59 seconds
+Number of function evaluations: 1234
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        2
+
+In iteration 17, 9 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 9 seconds
+Number of function evaluations: 1309
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        4
+
+In iteration 18, 12 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 19 seconds
+Number of function evaluations: 1381
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        8
+
+In iteration 19, 19 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 29 seconds
+Number of function evaluations: 1455
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        12
+
+In iteration 20, 35 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 39 seconds
+Number of function evaluations: 1528
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        21
+
+Iteration 20 finished.
+In iteration 22, 18 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 49 seconds
+Number of function evaluations: 1600
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        34
+
+In iteration 26, 2 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 59 seconds
+Number of function evaluations: 1674
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        55
+
+ 
+****************************************************************************************************
+'Training filter for class 2' finished after given maximum number of 30 iterations.
+ 
+Elapsed time:                   4 minutes and 3 seconds
+Number of function evaluations: 1699
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        65
+
+Final result after 30 iteration(s).
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.73; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022198
+Number of vectors with same evaluation value: 65
+
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_02.mat.
+****************************************************************************************************
+ 
+Best parameter set returned by function differentialevolution:
+      stage1_alpha: 0.0210
+       stage1_beta: 0.3100
+      stage1_gamma: 0.7000
+     stage1_lambda: 0.7300
+      stage2_delta: 0.2510
+    stage2_epsilon: 0.1000
+      stage4_alpha: 0.3510
+       stage4_beta: 0.9600
+
+****************************************************************************************************
+Starting 'Training filter for class 2' at Mar 15, 19:18.
+Number of possible parameter vectors: 2.47572e+12
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_10.mat.
+****************************************************************************************************
+Initial parameter set.
+Best member:
+stage1_alpha   = 0.231; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.56; 
+stage1_lambda  = 0.81; 
+stage2_delta   = 0.121; 
+stage2_epsilon = 0.12; 
+stage4_alpha   = 0.181; 
+stage4_beta    = 0.6; 
+Evaluation value: 0.217114
+
+In initialization, 2 of 80 members checked.
+Best member:
+stage1_alpha   = 0.071; 
+stage1_beta    = 0.43; 
+stage1_gamma   = 0.61; 
+stage1_lambda  = 0.79; 
+stage2_delta   = 0.181; 
+stage2_epsilon = 0.24; 
+stage4_alpha   = 0.161; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.136336
+
+In initialization, 5 of 80 members checked.
+Best member:
+stage1_alpha   = 0.101; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.42; 
+stage1_lambda  = 0.78; 
+stage2_delta   = 0.201; 
+stage2_epsilon = 0.17; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.086504
+
+In initialization, 66 of 80 members checked.
+ 
+Elapsed time:                   10 seconds
+Number of function evaluations: 66
+Mean function evaluation time:  0.15 seconds
+
+In iteration 1, 1 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.111; 
+stage1_beta    = 0.32; 
+stage1_gamma   = 0.51; 
+stage1_lambda  = 0.83; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.141; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.085578
+
+In iteration 1, 16 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.151; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.64; 
+stage1_lambda  = 0.74; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.22; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.88; 
+Evaluation value: 0.068661
+
+In iteration 1, 63 of 80 competitors checked.
+ 
+Elapsed time:                   19 seconds
+Number of function evaluations: 133
+Mean function evaluation time:  0.15 seconds
+
+In iteration 1, 76 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.141; 
+stage1_beta    = 0.38; 
+stage1_gamma   = 0.46; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.055268
+
+In iteration 2, 7 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.071; 
+stage1_beta    = 0.41; 
+stage1_gamma   = 0.48; 
+stage1_lambda  = 0.76; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.14; 
+stage4_alpha   = 0.311; 
+stage4_beta    = 0.98; 
+Evaluation value: 0.051711
+
+In iteration 2, 27 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.4; 
+stage1_lambda  = 0.93; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.9; 
+Evaluation value: 0.035269
+
+In iteration 2, 61 of 80 competitors checked.
+ 
+Elapsed time:                   29 seconds
+Number of function evaluations: 199
+Mean function evaluation time:  0.15 seconds
+
+In iteration 3, 8 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.47; 
+stage1_lambda  = 0.82; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.17; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.028446
+
+In iteration 3, 53 of 80 competitors checked.
+ 
+Elapsed time:                   40 seconds
+Number of function evaluations: 266
+Mean function evaluation time:  0.15 seconds
+
+In iteration 4, 15 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.56; 
+stage1_lambda  = 0.76; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.25; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.028167
+
+In iteration 4, 44 of 80 competitors checked.
+ 
+Elapsed time:                   50 seconds
+Number of function evaluations: 334
+Mean function evaluation time:  0.14 seconds
+
+In iteration 5, 6 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.001; % (boundary value)
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.52; 
+stage1_lambda  = 0.76; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.15; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.94; 
+Evaluation value: 0.024820
+
+In iteration 5, 31 of 80 competitors checked.
+ 
+Elapsed time:                   59 seconds
+Number of function evaluations: 401
+Mean function evaluation time:  0.14 seconds
+
+In iteration 6, 19 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 9 seconds
+Number of function evaluations: 467
+Mean function evaluation time:  0.14 seconds
+
+In iteration 7, 8 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 19 seconds
+Number of function evaluations: 536
+Mean function evaluation time:  0.14 seconds
+
+In iteration 7, 15 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.011; 
+stage1_beta    = 0.35; 
+stage1_gamma   = 0.6; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.99; 
+Evaluation value: 0.024817
+
+In iteration 7, 77 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 30 seconds
+Number of function evaluations: 604
+Mean function evaluation time:  0.14 seconds
+
+In iteration 8, 31 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.011; 
+stage1_beta    = 0.32; 
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.86; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.341; 
+stage4_beta    = 0.95; 
+Evaluation value: 0.024437
+
+In iteration 8, 47 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.031; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.64; 
+stage1_lambda  = 0.72; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.98; 
+Evaluation value: 0.023537
+
+In iteration 8, 50 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.77; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.97; 
+Evaluation value: 0.023156
+
+In iteration 8, 65 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 39 seconds
+Number of function evaluations: 672
+Mean function evaluation time:  0.14 seconds
+
+In iteration 9, 54 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 50 seconds
+Number of function evaluations: 741
+Mean function evaluation time:  0.14 seconds
+
+In iteration 10, 42 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 59 seconds
+Number of function evaluations: 808
+Mean function evaluation time:  0.14 seconds
+
+Iteration 10 finished.
+In iteration 11, 30 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 9 seconds
+Number of function evaluations: 876
+Mean function evaluation time:  0.14 seconds
+
+In iteration 11, 36 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.011; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.52; 
+stage1_lambda  = 0.77; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.11; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.94; 
+Evaluation value: 0.023039
+
+In iteration 11, 54 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.011; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.56; 
+stage1_lambda  = 0.75; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.91; 
+Evaluation value: 0.022913
+
+In iteration 12, 10 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.59; 
+stage1_lambda  = 0.81; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.94; 
+Evaluation value: 0.022728
+
+In iteration 12, 17 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 19 seconds
+Number of function evaluations: 943
+Mean function evaluation time:  0.14 seconds
+
+In iteration 12, 51 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.59; 
+stage1_lambda  = 0.82; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.98; 
+Evaluation value: 0.022537
+
+In iteration 13, 6 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 30 seconds
+Number of function evaluations: 1012
+Mean function evaluation time:  0.14 seconds
+
+In iteration 13, 37 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.58; 
+stage1_lambda  = 0.78; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.95; 
+Evaluation value: 0.022351
+
+In iteration 13, 73 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 40 seconds
+Number of function evaluations: 1079
+Mean function evaluation time:  0.14 seconds
+
+In iteration 14, 8 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.91; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.97; 
+Evaluation value: 0.022260
+
+In iteration 14, 27 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.55; 
+stage1_lambda  = 0.87; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022198
+
+In iteration 14, 61 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 50 seconds
+Number of function evaluations: 1147
+Mean function evaluation time:  0.14 seconds
+
+In iteration 15, 50 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 59 seconds
+Number of function evaluations: 1215
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        2
+
+In iteration 16, 38 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 10 seconds
+Number of function evaluations: 1283
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        3
+
+In iteration 17, 24 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 19 seconds
+Number of function evaluations: 1349
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        3
+
+In iteration 17, 58 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.82; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022197
+
+In iteration 18, 13 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 29 seconds
+Number of function evaluations: 1417
+Mean function evaluation time:  0.14 seconds
+
+In iteration 18, 15 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.83; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022193
+
+In iteration 19, 4 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 39 seconds
+Number of function evaluations: 1485
+Mean function evaluation time:  0.14 seconds
+
+In iteration 19, 73 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 49 seconds
+Number of function evaluations: 1553
+Mean function evaluation time:  0.14 seconds
+
+In iteration 19, 79 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022178
+
+In iteration 20, 64 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes
+Number of function evaluations: 1621
+Mean function evaluation time:  0.14 seconds
+
+Iteration 20 finished.
+In iteration 21, 55 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 10 seconds
+Number of function evaluations: 1688
+Mean function evaluation time:  0.14 seconds
+
+In iteration 22, 45 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 19 seconds
+Number of function evaluations: 1755
+Mean function evaluation time:  0.14 seconds
+
+In iteration 23, 39 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 30 seconds
+Number of function evaluations: 1824
+Mean function evaluation time:  0.14 seconds
+
+In iteration 24, 31 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 39 seconds
+Number of function evaluations: 1891
+Mean function evaluation time:  0.14 seconds
+
+In iteration 25, 38 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 49 seconds
+Number of function evaluations: 1959
+Mean function evaluation time:  0.14 seconds
+
+In iteration 26, 47 of 80 competitors checked.
+ 
+Elapsed time:                   5 minutes
+Number of function evaluations: 2027
+Mean function evaluation time:  0.14 seconds
+
+In iteration 27, 39 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.72; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022176
+
+In iteration 27, 65 of 80 competitors checked.
+ 
+Elapsed time:                   5 minutes and 9 seconds
+Number of function evaluations: 2093
+Mean function evaluation time:  0.14 seconds
+
+In iteration 28, 80 of 80 competitors checked.
+ 
+Elapsed time:                   5 minutes and 19 seconds
+Number of function evaluations: 2160
+Mean function evaluation time:  0.14 seconds
+
+ 
+****************************************************************************************************
+'Training filter for class 2' finished after given maximum number of 30 iterations.
+ 
+Elapsed time:                   5 minutes and 26 seconds
+Number of function evaluations: 2205
+Mean function evaluation time:  0.14 seconds
+
+Final result after 30 iteration(s).
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.53; 
+stage1_lambda  = 0.72; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 0.96; 
+Evaluation value: 0.022176
+
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_10.mat.
+****************************************************************************************************
+ 
+Best parameter set returned by function differentialevolution:
+      stage1_alpha: 0.0210
+       stage1_beta: 0.3100
+      stage1_gamma: 0.5300
+     stage1_lambda: 0.7200
+      stage2_delta: 0.2510
+    stage2_epsilon: 0.1000
+      stage4_alpha: 0.3510
+       stage4_beta: 0.9600
+
+****************************************************************************************************
+Starting 'Training filter for class 2' at Mar 15, 22:17.
+Number of possible parameter vectors: 2.47572e+12
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_18.mat.
+****************************************************************************************************
+Initial parameter set.
+Best member:
+stage1_alpha   = 0.061; 
+stage1_beta    = 0.46; 
+stage1_gamma   = 0.47; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.061; 
+stage2_epsilon = 0.14; 
+stage4_alpha   = 0.301; 
+stage4_beta    = 0.78; 
+Evaluation value: 0.192353
+
+In initialization, 4 of 80 members checked.
+Best member:
+stage1_alpha   = 0.091; 
+stage1_beta    = 0.48; 
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.81; 
+stage2_delta   = 0.211; 
+stage2_epsilon = 0.4; 
+stage4_alpha   = 0.321; 
+stage4_beta    = 0.9; 
+Evaluation value: 0.171169
+
+In initialization, 20 of 80 members checked.
+Best member:
+stage1_alpha   = 0.091; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.52; 
+stage1_lambda  = 0.76; 
+stage2_delta   = 0.211; 
+stage2_epsilon = 0.17; 
+stage4_alpha   = 0.211; 
+stage4_beta    = 0.9; 
+Evaluation value: 0.135805
+
+In initialization, 65 of 80 members checked.
+Best member:
+stage1_alpha   = 0.281; 
+stage1_beta    = 0.34; 
+stage1_gamma   = 0.57; 
+stage1_lambda  = 0.78; 
+stage2_delta   = 0.231; 
+stage2_epsilon = 0.32; 
+stage4_alpha   = 0.161; 
+stage4_beta    = 0.97; 
+Evaluation value: 0.131623
+
+In initialization, 67 of 80 members checked.
+ 
+Elapsed time:                   9.93 seconds
+Number of function evaluations: 67
+Mean function evaluation time:  0.14 seconds
+
+In iteration 1, 2 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.291; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.46; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.221; 
+stage2_epsilon = 0.32; 
+stage4_alpha   = 0.321; 
+stage4_beta    = 0.89; 
+Evaluation value: 0.129677
+
+In iteration 1, 15 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.151; 
+stage1_beta    = 0.41; 
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.16; 
+stage4_alpha   = 0.121; 
+stage4_beta    = 0.9; 
+Evaluation value: 0.123804
+
+In iteration 1, 17 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.281; 
+stage1_beta    = 0.33; 
+stage1_gamma   = 0.45; 
+stage1_lambda  = 0.8; 
+stage2_delta   = 0.211; 
+stage2_epsilon = 0.12; 
+stage4_alpha   = 0.281; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.090282
+
+In iteration 1, 35 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.271; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.32; % (boundary value)
+stage1_lambda  = 0.96; 
+stage2_delta   = 0.231; 
+stage2_epsilon = 0.19; 
+stage4_alpha   = 0.241; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.080709
+
+In iteration 1, 53 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.301; 
+stage1_beta    = 0.35; 
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.8; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.291; 
+stage4_beta    = 0.93; 
+Evaluation value: 0.067945
+
+In iteration 1, 60 of 80 competitors checked.
+ 
+Elapsed time:                   20 seconds
+Number of function evaluations: 137
+Mean function evaluation time:  0.14 seconds
+
+In iteration 2, 2 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.301; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.56; 
+stage1_lambda  = 0.86; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.27; 
+stage4_alpha   = 0.321; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.043976
+
+In iteration 2, 51 of 80 competitors checked.
+ 
+Elapsed time:                   30 seconds
+Number of function evaluations: 207
+Mean function evaluation time:  0.14 seconds
+
+In iteration 2, 80 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.071; 
+stage1_beta    = 0.5; 
+stage1_gamma   = 0.7; % (boundary value)
+stage1_lambda  = 0.72; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.16; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.037515
+
+In iteration 3, 44 of 80 competitors checked.
+ 
+Elapsed time:                   40 seconds
+Number of function evaluations: 277
+Mean function evaluation time:  0.14 seconds
+
+In iteration 4, 33 of 80 competitors checked.
+ 
+Elapsed time:                   50 seconds
+Number of function evaluations: 346
+Mean function evaluation time:  0.14 seconds
+
+In iteration 4, 50 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.061; 
+stage1_beta    = 0.43; 
+stage1_gamma   = 0.63; 
+stage1_lambda  = 0.83; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.22; 
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.037450
+
+In iteration 5, 22 of 80 competitors checked.
+ 
+Elapsed time:                   59 seconds
+Number of function evaluations: 414
+Mean function evaluation time:  0.14 seconds
+
+In iteration 6, 11 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 9 seconds
+Number of function evaluations: 483
+Mean function evaluation time:  0.14 seconds
+
+In iteration 6, 32 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.44; 
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.87; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.037201
+
+In iteration 7, 1 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 20 seconds
+Number of function evaluations: 553
+Mean function evaluation time:  0.14 seconds
+
+In iteration 7, 32 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.021; 
+stage1_beta    = 0.38; 
+stage1_gamma   = 0.62; 
+stage1_lambda  = 0.95; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.036865
+
+In iteration 7, 69 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 29 seconds
+Number of function evaluations: 621
+Mean function evaluation time:  0.14 seconds
+
+In iteration 8, 49 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.031; 
+stage1_beta    = 0.38; 
+stage1_gamma   = 0.68; 
+stage1_lambda  = 0.87; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.036452
+
+In iteration 8, 58 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 40 seconds
+Number of function evaluations: 690
+Mean function evaluation time:  0.14 seconds
+
+In iteration 9, 47 of 80 competitors checked.
+ 
+Elapsed time:                   1 minute and 49 seconds
+Number of function evaluations: 758
+Mean function evaluation time:  0.14 seconds
+
+In iteration 10, 31 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.64; 
+stage1_lambda  = 0.91; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 10, 36 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes
+Number of function evaluations: 827
+Mean function evaluation time:  0.14 seconds
+
+Iteration 10 finished.
+In iteration 11, 24 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 10 seconds
+Number of function evaluations: 895
+Mean function evaluation time:  0.14 seconds
+
+In iteration 12, 13 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 20 seconds
+Number of function evaluations: 964
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        2
+
+In iteration 12, 80 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 29 seconds
+Number of function evaluations: 1031
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        4
+
+In iteration 13, 68 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 39 seconds
+Number of function evaluations: 1098
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        5
+
+In iteration 14, 58 of 80 competitors checked.
+ 
+Elapsed time:                   2 minutes and 50 seconds
+Number of function evaluations: 1168
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        5
+
+In iteration 15, 45 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes
+Number of function evaluations: 1235
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        6
+
+In iteration 16, 32 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 9 seconds
+Number of function evaluations: 1302
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        7
+
+In iteration 17, 22 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 19 seconds
+Number of function evaluations: 1372
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        11
+
+In iteration 18, 14 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 30 seconds
+Number of function evaluations: 1442
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        17
+
+In iteration 19, 8 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 40 seconds
+Number of function evaluations: 1511
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        22
+
+In iteration 20, 1 of 80 competitors checked.
+ 
+Elapsed time:                   3 minutes and 49 seconds
+Number of function evaluations: 1579
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        32
+
+Iteration 20 finished.
+In iteration 21, 10 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes
+Number of function evaluations: 1650
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        52
+
+In iteration 22, 31 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 10 seconds
+Number of function evaluations: 1719
+Mean function evaluation time:  0.14 seconds
+Vectors with best value:        74
+
+In iteration 23, 55 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.99; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 23, 72 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 19 seconds
+Number of function evaluations: 1787
+Mean function evaluation time:  0.14 seconds
+
+In iteration 23, 76 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.96; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 24, 2 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.92; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 24, 69 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.83; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 25, 10 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.77; 
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035635
+
+In iteration 25, 20 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 30 seconds
+Number of function evaluations: 1856
+Mean function evaluation time:  0.14 seconds
+
+In iteration 26, 33 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 40 seconds
+Number of function evaluations: 1926
+Mean function evaluation time:  0.14 seconds
+
+In iteration 27, 10 of 80 competitors checked.
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035634
+
+In iteration 27, 60 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 50 seconds
+Number of function evaluations: 1996
+Mean function evaluation time:  0.14 seconds
+
+In iteration 28, 80 of 80 competitors checked.
+ 
+Elapsed time:                   4 minutes and 59 seconds
+Number of function evaluations: 2066
+Mean function evaluation time:  0.14 seconds
+
+ 
+****************************************************************************************************
+'Training filter for class 2' finished after given maximum number of 30 iterations.
+ 
+Elapsed time:                   5 minutes and 7 seconds
+Number of function evaluations: 2119
+Mean function evaluation time:  0.14 seconds
+
+Final result after 30 iteration(s).
+Best member:
+stage1_alpha   = 0.041; 
+stage1_beta    = 0.31; % (boundary value)
+stage1_gamma   = 0.54; 
+stage1_lambda  = 0.71; % (boundary value)
+stage2_delta   = 0.251; 
+stage2_epsilon = 0.1; % (boundary value)
+stage4_alpha   = 0.351; 
+stage4_beta    = 1; % (boundary value)
+Evaluation value: 0.035634
+
+Results are saved in file perceptron/optimizationResult/Local/fitness_result_DESKTOP-P1BQ8C8_18.mat.
+****************************************************************************************************
+ 
+Best parameter set returned by function differentialevolution:
+      stage1_alpha: 0.0410
+       stage1_beta: 0.3100
+      stage1_gamma: 0.5400
+     stage1_lambda: 0.7100
+      stage2_delta: 0.2510
+    stage2_epsilon: 0.1000
+      stage4_alpha: 0.3510
+       stage4_beta: 1
+

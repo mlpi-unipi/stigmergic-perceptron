@@ -1,0 +1,4697 @@
+Trial number:1
+Random Seed Used:897
+****************************************************************************************************
+Starting 'Found Optimum Delta Interval' at Mar 15, 16:46.
+Number of possible parameter vectors: 8.18354e+11
+Results are saved in file perceptron/optimizationResult/Global/optimizeDeltaInterval_result_DESKTOP-P1BQ8C8_01.mat.
+****************************************************************************************************
+Initial parameter set.
+Best member:
+stage1_delta_fiter1   = 0.091; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.191; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.051; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2188; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.18; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.261; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1451; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.251; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.186240
+
+First function evaluation time: 1.81 seconds
+In initialization, 2 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.061; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.041; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.061; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3188; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.19; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.141; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2651; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.291; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.186150
+
+In initialization, 3 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.341; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.101; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.071; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.1188; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.14; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.191; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.021; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.184809
+
+Mean function evaluation time after 5 runs: 1.67 seconds
+In initialization, 6 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.311; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.211; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.211; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2288; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.31; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.071; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1851; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.151; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.184363
+
+In initialization, 6 of 160 members checked.
+ 
+Elapsed time:                   10 seconds
+Number of function evaluations: 6
+Mean function evaluation time:  1.76 seconds
+
+In initialization, 7 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.311; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.111; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.041; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3188; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.121; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.191; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.183170
+
+In initialization, 11 of 160 members checked.
+ 
+Elapsed time:                   21 seconds
+Number of function evaluations: 11
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 16 of 160 members checked.
+ 
+Elapsed time:                   30 seconds
+Number of function evaluations: 16
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 22 of 160 members checked.
+ 
+Elapsed time:                   41 seconds
+Number of function evaluations: 22
+Mean function evaluation time:  1.88 seconds
+
+In initialization, 27 of 160 members checked.
+ 
+Elapsed time:                   50 seconds
+Number of function evaluations: 27
+Mean function evaluation time:  1.85 seconds
+
+In initialization, 32 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.341; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.201; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.341; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3288; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.34; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.071; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.321; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182704
+
+In initialization, 33 of 160 members checked.
+ 
+Elapsed time:                   1 minute
+Number of function evaluations: 33
+Mean function evaluation time:  1.83 seconds
+
+In initialization, 38 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 11 seconds
+Number of function evaluations: 38
+Mean function evaluation time:  1.89 seconds
+
+In initialization, 42 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 19 seconds
+Number of function evaluations: 42
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 47 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 31 seconds
+Number of function evaluations: 47
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 52 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 41 seconds
+Number of function evaluations: 52
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 57 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 50 seconds
+Number of function evaluations: 57
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 62 of 160 members checked.
+ 
+Elapsed time:                   2 minutes
+Number of function evaluations: 62
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 67 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 10 seconds
+Number of function evaluations: 67
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 73 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 21 seconds
+Number of function evaluations: 73
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 78 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 31 seconds
+Number of function evaluations: 78
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 83 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 40 seconds
+Number of function evaluations: 83
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 88 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 51 seconds
+Number of function evaluations: 88
+Mean function evaluation time:  1.94 seconds
+
+In initialization, 93 of 160 members checked.
+ 
+Elapsed time:                   3 minutes
+Number of function evaluations: 93
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 99 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 11 seconds
+Number of function evaluations: 99
+Mean function evaluation time:  1.93 seconds
+
+In initialization, 104 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 20 seconds
+Number of function evaluations: 104
+Mean function evaluation time:  1.92 seconds
+
+In initialization, 109 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 30 seconds
+Number of function evaluations: 109
+Mean function evaluation time:  1.92 seconds
+
+In initialization, 115 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 41 seconds
+Number of function evaluations: 115
+Mean function evaluation time:  1.92 seconds
+
+In initialization, 120 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 50 seconds
+Number of function evaluations: 120
+Mean function evaluation time:  1.91 seconds
+
+In initialization, 126 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 1 second
+Number of function evaluations: 126
+Mean function evaluation time:  1.91 seconds
+
+In initialization, 131 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 10 seconds
+Number of function evaluations: 131
+Mean function evaluation time:  1.91 seconds
+
+In initialization, 137 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 21 seconds
+Number of function evaluations: 137
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 142 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 30 seconds
+Number of function evaluations: 142
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 147 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 40 seconds
+Number of function evaluations: 147
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 152 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 49 seconds
+Number of function evaluations: 152
+Mean function evaluation time:  1.9 seconds
+
+In initialization, 158 of 160 members checked.
+ 
+Elapsed time:                   5 minutes
+Number of function evaluations: 158
+Mean function evaluation time:  1.9 seconds
+
+In iteration 1, 3 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 10 seconds
+Number of function evaluations: 163
+Mean function evaluation time:  1.9 seconds
+
+In iteration 1, 5 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.191; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.191; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.031; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.041; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182352
+
+In iteration 1, 7 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.321; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.121; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.351; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182006
+
+In iteration 1, 9 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 21 seconds
+Number of function evaluations: 169
+Mean function evaluation time:  1.9 seconds
+
+In iteration 1, 14 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 30 seconds
+Number of function evaluations: 174
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 20 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 41 seconds
+Number of function evaluations: 180
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 25 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 50 seconds
+Number of function evaluations: 185
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 30 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes
+Number of function evaluations: 190
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 35 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 10 seconds
+Number of function evaluations: 195
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 39 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.301; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3388; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.12; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2151; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.261; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.181761
+
+In iteration 1, 41 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 20 seconds
+Number of function evaluations: 201
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 46 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 30 seconds
+Number of function evaluations: 206
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 52 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 41 seconds
+Number of function evaluations: 212
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 56 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.191; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2551; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.311; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.181512
+
+In iteration 1, 57 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 50 seconds
+Number of function evaluations: 217
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 63 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 1 second
+Number of function evaluations: 223
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 68 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 10 seconds
+Number of function evaluations: 228
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 74 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 21 seconds
+Number of function evaluations: 234
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 79 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 30 seconds
+Number of function evaluations: 239
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 85 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 41 seconds
+Number of function evaluations: 245
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 90 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 50 seconds
+Number of function evaluations: 250
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 95 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes
+Number of function evaluations: 255
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 100 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 10 seconds
+Number of function evaluations: 260
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 105 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 21 seconds
+Number of function evaluations: 265
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 110 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 30 seconds
+Number of function evaluations: 270
+Mean function evaluation time:  1.88 seconds
+
+In iteration 1, 115 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 40 seconds
+Number of function evaluations: 275
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 121 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 51 seconds
+Number of function evaluations: 281
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 126 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 1 second
+Number of function evaluations: 286
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 131 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 11 seconds
+Number of function evaluations: 291
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 136 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 20 seconds
+Number of function evaluations: 296
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 142 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 31 seconds
+Number of function evaluations: 302
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 147 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 40 seconds
+Number of function evaluations: 307
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 151 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.331; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.011; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.3351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.201; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180987
+
+In iteration 1, 152 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 50 seconds
+Number of function evaluations: 312
+Mean function evaluation time:  1.89 seconds
+
+In iteration 1, 158 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes
+Number of function evaluations: 318
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 4 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 11 seconds
+Number of function evaluations: 324
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 5 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3388; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.041; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180895
+
+In iteration 2, 9 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 19 seconds
+Number of function evaluations: 329
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 15 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 30 seconds
+Number of function evaluations: 335
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 20 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 40 seconds
+Number of function evaluations: 340
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 26 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 51 seconds
+Number of function evaluations: 346
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 31 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes
+Number of function evaluations: 351
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 36 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 10 seconds
+Number of function evaluations: 356
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 41 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 20 seconds
+Number of function evaluations: 361
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 46 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 30 seconds
+Number of function evaluations: 366
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 52 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 41 seconds
+Number of function evaluations: 372
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 57 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 49 seconds
+Number of function evaluations: 377
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 63 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes
+Number of function evaluations: 383
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 68 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 11 seconds
+Number of function evaluations: 388
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 73 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 21 seconds
+Number of function evaluations: 393
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 78 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 31 seconds
+Number of function evaluations: 398
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 83 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 41 seconds
+Number of function evaluations: 403
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 88 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 50 seconds
+Number of function evaluations: 408
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 93 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes
+Number of function evaluations: 413
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 99 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 10 seconds
+Number of function evaluations: 419
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 105 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 21 seconds
+Number of function evaluations: 425
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 110 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 30 seconds
+Number of function evaluations: 430
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 115 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 39 seconds
+Number of function evaluations: 435
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 121 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 50 seconds
+Number of function evaluations: 441
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 126 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 59 seconds
+Number of function evaluations: 446
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 132 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 11 seconds
+Number of function evaluations: 452
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 137 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 20 seconds
+Number of function evaluations: 457
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 142 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 30 seconds
+Number of function evaluations: 462
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 147 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 40 seconds
+Number of function evaluations: 467
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 153 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 51 seconds
+Number of function evaluations: 473
+Mean function evaluation time:  1.88 seconds
+
+In iteration 2, 158 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 1 second
+Number of function evaluations: 478
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 3 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 10 seconds
+Number of function evaluations: 483
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 9 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 21 seconds
+Number of function evaluations: 489
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 14 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 30 seconds
+Number of function evaluations: 494
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 20 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 41 seconds
+Number of function evaluations: 500
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 26 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 51 seconds
+Number of function evaluations: 506
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 31 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 59 seconds
+Number of function evaluations: 511
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 33 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.031; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0151; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180139
+
+In iteration 3, 36 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 10 seconds
+Number of function evaluations: 516
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 42 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 21 seconds
+Number of function evaluations: 522
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 47 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 31 seconds
+Number of function evaluations: 527
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 52 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 40 seconds
+Number of function evaluations: 532
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 58 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 51 seconds
+Number of function evaluations: 538
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 63 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 1 second
+Number of function evaluations: 543
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 68 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 10 seconds
+Number of function evaluations: 548
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 74 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 21 seconds
+Number of function evaluations: 554
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 79 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 31 seconds
+Number of function evaluations: 559
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 84 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 40 seconds
+Number of function evaluations: 564
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 89 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 50 seconds
+Number of function evaluations: 569
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 95 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 1 second
+Number of function evaluations: 575
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 100 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 10 seconds
+Number of function evaluations: 580
+Mean function evaluation time:  1.88 seconds
+
+In iteration 3, 106 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 21 seconds
+Number of function evaluations: 586
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 111 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 30 seconds
+Number of function evaluations: 591
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 117 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 41 seconds
+Number of function evaluations: 597
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 122 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 50 seconds
+Number of function evaluations: 602
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 128 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 1 second
+Number of function evaluations: 608
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 133 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 11 seconds
+Number of function evaluations: 613
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 138 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 20 seconds
+Number of function evaluations: 618
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 143 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 30 seconds
+Number of function evaluations: 623
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 149 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 41 seconds
+Number of function evaluations: 629
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 154 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 50 seconds
+Number of function evaluations: 634
+Mean function evaluation time:  1.87 seconds
+
+In iteration 3, 160 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes
+Number of function evaluations: 640
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 5 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 9 seconds
+Number of function evaluations: 645
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 11 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 20 seconds
+Number of function evaluations: 651
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 17 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 31 seconds
+Number of function evaluations: 657
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 22 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 40 seconds
+Number of function evaluations: 662
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 28 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 50 seconds
+Number of function evaluations: 668
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 34 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 1 second
+Number of function evaluations: 674
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 39 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 10 seconds
+Number of function evaluations: 679
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 45 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 21 seconds
+Number of function evaluations: 685
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 50 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 31 seconds
+Number of function evaluations: 690
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 55 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 40 seconds
+Number of function evaluations: 695
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 61 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 51 seconds
+Number of function evaluations: 701
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 65 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes
+Number of function evaluations: 705
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 70 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 10 seconds
+Number of function evaluations: 710
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 76 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 21 seconds
+Number of function evaluations: 716
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 81 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 29 seconds
+Number of function evaluations: 721
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 87 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 40 seconds
+Number of function evaluations: 727
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 93 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 51 seconds
+Number of function evaluations: 733
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 98 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes
+Number of function evaluations: 738
+Mean function evaluation time:  1.87 seconds
+
+In iteration 4, 104 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 10 seconds
+Number of function evaluations: 744
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 110 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 21 seconds
+Number of function evaluations: 750
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 115 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 31 seconds
+Number of function evaluations: 755
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 120 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 40 seconds
+Number of function evaluations: 760
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 126 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 50 seconds
+Number of function evaluations: 766
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 132 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 1 second
+Number of function evaluations: 772
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 137 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 10 seconds
+Number of function evaluations: 777
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 143 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 20 seconds
+Number of function evaluations: 783
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 148 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 30 seconds
+Number of function evaluations: 788
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 154 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 41 seconds
+Number of function evaluations: 794
+Mean function evaluation time:  1.86 seconds
+
+In iteration 4, 160 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 51 seconds
+Number of function evaluations: 800
+Mean function evaluation time:  1.86 seconds
+
+In iteration 5, 6 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 1 second
+Number of function evaluations: 806
+Mean function evaluation time:  1.86 seconds
+
+In iteration 5, 11 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 10 seconds
+Number of function evaluations: 811
+Mean function evaluation time:  1.86 seconds
+
+In iteration 5, 17 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 20 seconds
+Number of function evaluations: 817
+Mean function evaluation time:  1.86 seconds
+
+In iteration 5, 23 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 31 seconds
+Number of function evaluations: 823
+Mean function evaluation time:  1.86 seconds
+
+In iteration 5, 28 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 39 seconds
+Number of function evaluations: 828
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 33 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.241; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0151; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.031; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180105
+
+In iteration 5, 34 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 50 seconds
+Number of function evaluations: 834
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 40 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes
+Number of function evaluations: 840
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 46 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 10 seconds
+Number of function evaluations: 846
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 52 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 21 seconds
+Number of function evaluations: 852
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 57 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0151; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.179917
+
+In iteration 5, 57 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 30 seconds
+Number of function evaluations: 857
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 63 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 41 seconds
+Number of function evaluations: 863
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 68 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 50 seconds
+Number of function evaluations: 868
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 74 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 1 second
+Number of function evaluations: 874
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 79 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 10 seconds
+Number of function evaluations: 879
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 84 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 20 seconds
+Number of function evaluations: 884
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 89 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 30 seconds
+Number of function evaluations: 889
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 94 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 40 seconds
+Number of function evaluations: 894
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 99 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 50 seconds
+Number of function evaluations: 899
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 104 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes
+Number of function evaluations: 904
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 110 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 11 seconds
+Number of function evaluations: 910
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 115 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 20 seconds
+Number of function evaluations: 915
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 120 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 29 seconds
+Number of function evaluations: 920
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 126 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 41 seconds
+Number of function evaluations: 926
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 131 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 50 seconds
+Number of function evaluations: 931
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 136 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 59 seconds
+Number of function evaluations: 936
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 142 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 11 seconds
+Number of function evaluations: 942
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 147 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 20 seconds
+Number of function evaluations: 947
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 153 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 31 seconds
+Number of function evaluations: 953
+Mean function evaluation time:  1.85 seconds
+
+In iteration 5, 158 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 41 seconds
+Number of function evaluations: 958
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 3 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 51 seconds
+Number of function evaluations: 963
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 8 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes
+Number of function evaluations: 968
+Mean function evaluation time:  1.86 seconds
+
+In iteration 6, 14 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 11 seconds
+Number of function evaluations: 974
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 19 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 20 seconds
+Number of function evaluations: 979
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 24 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 29 seconds
+Number of function evaluations: 984
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 30 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 40 seconds
+Number of function evaluations: 990
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 36 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 51 seconds
+Number of function evaluations: 996
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 42 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 1 second
+Number of function evaluations: 1002
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 47 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 11 seconds
+Number of function evaluations: 1007
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 52 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 20 seconds
+Number of function evaluations: 1012
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 58 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 30 seconds
+Number of function evaluations: 1018
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 64 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 40 seconds
+Number of function evaluations: 1024
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 70 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 51 seconds
+Number of function evaluations: 1030
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 76 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 1 second
+Number of function evaluations: 1036
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 81 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 10 seconds
+Number of function evaluations: 1041
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 87 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 20 seconds
+Number of function evaluations: 1047
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 92 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 30 seconds
+Number of function evaluations: 1052
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 98 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 41 seconds
+Number of function evaluations: 1058
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 103 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 50 seconds
+Number of function evaluations: 1063
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 109 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes
+Number of function evaluations: 1069
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 114 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 10 seconds
+Number of function evaluations: 1074
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 120 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 20 seconds
+Number of function evaluations: 1080
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 126 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 31 seconds
+Number of function evaluations: 1086
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 131 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 40 seconds
+Number of function evaluations: 1091
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 137 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 50 seconds
+Number of function evaluations: 1097
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 143 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes
+Number of function evaluations: 1103
+Mean function evaluation time:  1.85 seconds
+
+In iteration 6, 149 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 10 seconds
+Number of function evaluations: 1109
+Mean function evaluation time:  1.84 seconds
+
+In iteration 6, 155 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 21 seconds
+Number of function evaluations: 1115
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 1 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 31 seconds
+Number of function evaluations: 1121
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 6 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 41 seconds
+Number of function evaluations: 1126
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 11 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 50 seconds
+Number of function evaluations: 1131
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 17 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 1 second
+Number of function evaluations: 1137
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 21 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.179889
+
+In iteration 7, 22 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 11 seconds
+Number of function evaluations: 1142
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 27 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 21 seconds
+Number of function evaluations: 1147
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 32 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 30 seconds
+Number of function evaluations: 1152
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 38 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 41 seconds
+Number of function evaluations: 1158
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 43 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 51 seconds
+Number of function evaluations: 1163
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 48 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 1 second
+Number of function evaluations: 1168
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 53 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 10 seconds
+Number of function evaluations: 1173
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 59 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 21 seconds
+Number of function evaluations: 1179
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 65 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 30 seconds
+Number of function evaluations: 1184
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 70 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 39 seconds
+Number of function evaluations: 1189
+Mean function evaluation time:  1.85 seconds
+
+In iteration 7, 76 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 50 seconds
+Number of function evaluations: 1195
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 82 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 1 second
+Number of function evaluations: 1201
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 87 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 10 seconds
+Number of function evaluations: 1206
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 93 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 20 seconds
+Number of function evaluations: 1212
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 99 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 30 seconds
+Number of function evaluations: 1217
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 106 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 41 seconds
+Number of function evaluations: 1223
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 111 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 50 seconds
+Number of function evaluations: 1228
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 117 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes
+Number of function evaluations: 1234
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 123 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 11 seconds
+Number of function evaluations: 1240
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 128 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 20 seconds
+Number of function evaluations: 1245
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 134 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 30 seconds
+Number of function evaluations: 1251
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 140 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 40 seconds
+Number of function evaluations: 1257
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 146 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 51 seconds
+Number of function evaluations: 1263
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 151 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes
+Number of function evaluations: 1268
+Mean function evaluation time:  1.84 seconds
+
+In iteration 7, 157 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 11 seconds
+Number of function evaluations: 1274
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 2 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 19 seconds
+Number of function evaluations: 1279
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 8 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 30 seconds
+Number of function evaluations: 1285
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 14 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 41 seconds
+Number of function evaluations: 1291
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 19 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 50 seconds
+Number of function evaluations: 1296
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 26 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes
+Number of function evaluations: 1302
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 32 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 11 seconds
+Number of function evaluations: 1308
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 37 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 21 seconds
+Number of function evaluations: 1313
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 43 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 31 seconds
+Number of function evaluations: 1319
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 48 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 40 seconds
+Number of function evaluations: 1324
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 54 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 51 seconds
+Number of function evaluations: 1330
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 59 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 1 second
+Number of function evaluations: 1335
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 64 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 10 seconds
+Number of function evaluations: 1340
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 69 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 20 seconds
+Number of function evaluations: 1345
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 75 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 31 seconds
+Number of function evaluations: 1351
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 80 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 40 seconds
+Number of function evaluations: 1356
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 86 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 50 seconds
+Number of function evaluations: 1361
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 92 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 1 second
+Number of function evaluations: 1367
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 98 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 10 seconds
+Number of function evaluations: 1372
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 103 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 20 seconds
+Number of function evaluations: 1377
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 108 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 29 seconds
+Number of function evaluations: 1382
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 114 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 40 seconds
+Number of function evaluations: 1388
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 119 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 50 seconds
+Number of function evaluations: 1393
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 125 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 1 second
+Number of function evaluations: 1399
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 130 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 10 seconds
+Number of function evaluations: 1404
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 136 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 20 seconds
+Number of function evaluations: 1410
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 143 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 31 seconds
+Number of function evaluations: 1416
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 148 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 40 seconds
+Number of function evaluations: 1421
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 155 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 51 seconds
+Number of function evaluations: 1427
+Mean function evaluation time:  1.84 seconds
+
+In iteration 8, 160 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes
+Number of function evaluations: 1432
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 7 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 11 seconds
+Number of function evaluations: 1438
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 13 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 21 seconds
+Number of function evaluations: 1444
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 18 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 30 seconds
+Number of function evaluations: 1449
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 25 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 40 seconds
+Number of function evaluations: 1455
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 31 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 50 seconds
+Number of function evaluations: 1461
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 39 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 1 second
+Number of function evaluations: 1467
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 44 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 10 seconds
+Number of function evaluations: 1472
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 52 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 19 seconds
+Number of function evaluations: 1478
+Mean function evaluation time:  1.84 seconds
+
+In iteration 9, 60 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 31 seconds
+Number of function evaluations: 1485
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 66 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 41 seconds
+Number of function evaluations: 1491
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 73 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 51 seconds
+Number of function evaluations: 1497
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 80 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes
+Number of function evaluations: 1503
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 87 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 10 seconds
+Number of function evaluations: 1509
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 93 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 20 seconds
+Number of function evaluations: 1515
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 100 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 30 seconds
+Number of function evaluations: 1521
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 107 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 41 seconds
+Number of function evaluations: 1528
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 113 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 51 seconds
+Number of function evaluations: 1534
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 120 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes
+Number of function evaluations: 1540
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 128 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 10 seconds
+Number of function evaluations: 1546
+Mean function evaluation time:  1.83 seconds
+
+In iteration 9, 136 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 20 seconds
+Number of function evaluations: 1552
+Mean function evaluation time:  1.82 seconds
+
+In iteration 9, 143 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 29 seconds
+Number of function evaluations: 1558
+Mean function evaluation time:  1.82 seconds
+
+In iteration 9, 151 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 41 seconds
+Number of function evaluations: 1565
+Mean function evaluation time:  1.82 seconds
+
+In iteration 9, 158 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 51 seconds
+Number of function evaluations: 1571
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 7 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 1 second
+Number of function evaluations: 1577
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 13 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 10 seconds
+Number of function evaluations: 1583
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 20 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 20 seconds
+Number of function evaluations: 1589
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 27 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 30 seconds
+Number of function evaluations: 1595
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 36 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 40 seconds
+Number of function evaluations: 1601
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 45 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 50 seconds
+Number of function evaluations: 1607
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 55 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes
+Number of function evaluations: 1613
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 61 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 10 seconds
+Number of function evaluations: 1619
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 69 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 20 seconds
+Number of function evaluations: 1625
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 76 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 30 seconds
+Number of function evaluations: 1631
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 88 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 40 seconds
+Number of function evaluations: 1637
+Mean function evaluation time:  1.82 seconds
+
+In iteration 10, 98 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 50 seconds
+Number of function evaluations: 1643
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 107 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes
+Number of function evaluations: 1649
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 115 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 10 seconds
+Number of function evaluations: 1655
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 122 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 21 seconds
+Number of function evaluations: 1662
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 130 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 31 seconds
+Number of function evaluations: 1668
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 136 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 40 seconds
+Number of function evaluations: 1673
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 143 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 49 seconds
+Number of function evaluations: 1679
+Mean function evaluation time:  1.81 seconds
+
+In iteration 10, 154 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 1 second
+Number of function evaluations: 1686
+Mean function evaluation time:  1.81 seconds
+
+Iteration 10 finished.
+In iteration 11, 1 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 10 seconds
+Number of function evaluations: 1691
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 13 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 20 seconds
+Number of function evaluations: 1697
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 28 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 30 seconds
+Number of function evaluations: 1703
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 40 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 41 seconds
+Number of function evaluations: 1709
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 54 of 160 competitors checked.
+ 
+Elapsed time:                   51 minutes and 51 seconds
+Number of function evaluations: 1715
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 62 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 1 second
+Number of function evaluations: 1721
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 74 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 11 seconds
+Number of function evaluations: 1727
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 91 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 21 seconds
+Number of function evaluations: 1733
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 107 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 31 seconds
+Number of function evaluations: 1739
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 116 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 41 seconds
+Number of function evaluations: 1745
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 126 of 160 competitors checked.
+ 
+Elapsed time:                   52 minutes and 49 seconds
+Number of function evaluations: 1750
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 136 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes
+Number of function evaluations: 1756
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 151 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes and 10 seconds
+Number of function evaluations: 1762
+Mean function evaluation time:  1.81 seconds
+
+In iteration 11, 160 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes and 20 seconds
+Number of function evaluations: 1768
+Mean function evaluation time:  1.81 seconds
+
+In iteration 12, 45 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes and 30 seconds
+Number of function evaluations: 1774
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 57 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes and 40 seconds
+Number of function evaluations: 1780
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 78 of 160 competitors checked.
+ 
+Elapsed time:                   53 minutes and 50 seconds
+Number of function evaluations: 1786
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 89 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes
+Number of function evaluations: 1792
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 116 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes and 10 seconds
+Number of function evaluations: 1798
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 136 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes and 20 seconds
+Number of function evaluations: 1804
+Mean function evaluation time:  1.8 seconds
+
+In iteration 12, 158 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes and 30 seconds
+Number of function evaluations: 1810
+Mean function evaluation time:  1.8 seconds
+
+In iteration 13, 61 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes and 40 seconds
+Number of function evaluations: 1816
+Mean function evaluation time:  1.8 seconds
+
+In iteration 13, 87 of 160 competitors checked.
+ 
+Elapsed time:                   54 minutes and 50 seconds
+Number of function evaluations: 1822
+Mean function evaluation time:  1.8 seconds
+
+In iteration 13, 119 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes
+Number of function evaluations: 1828
+Mean function evaluation time:  1.8 seconds
+
+In iteration 14, 55 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes and 9 seconds
+Number of function evaluations: 1834
+Mean function evaluation time:  1.8 seconds
+
+In iteration 14, 116 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes and 21 seconds
+Number of function evaluations: 1841
+Mean function evaluation time:  1.8 seconds
+
+In iteration 14, 150 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes and 30 seconds
+Number of function evaluations: 1847
+Mean function evaluation time:  1.8 seconds
+
+In iteration 16, 7 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes and 40 seconds
+Number of function evaluations: 1853
+Mean function evaluation time:  1.8 seconds
+
+In iteration 17, 16 of 160 competitors checked.
+ 
+Elapsed time:                   55 minutes and 50 seconds
+Number of function evaluations: 1859
+Mean function evaluation time:  1.8 seconds
+
+In iteration 18, 43 of 160 competitors checked.
+ 
+Elapsed time:                   56 minutes
+Number of function evaluations: 1865
+Mean function evaluation time:  1.8 seconds
+
+In iteration 19, 138 of 160 competitors checked.
+ 
+Elapsed time:                   56 minutes and 11 seconds
+Number of function evaluations: 1872
+Mean function evaluation time:  1.8 seconds
+
+Iteration 20 finished.
+In iteration 21, 31 of 160 competitors checked.
+ 
+Elapsed time:                   56 minutes and 21 seconds
+Number of function evaluations: 1878
+Mean function evaluation time:  1.8 seconds
+
+In iteration 22, 160 of 160 competitors checked.
+ 
+Elapsed time:                   56 minutes and 30 seconds
+Number of function evaluations: 1884
+Mean function evaluation time:  1.79 seconds
+
+In iteration 25, 100 of 160 competitors checked.
+ 
+Elapsed time:                   56 minutes and 40 seconds
+Number of function evaluations: 1890
+Mean function evaluation time:  1.79 seconds
+
+ 
+****************************************************************************************************
+'Found Optimum Delta Interval' finished after given maximum number of 30 iterations.
+ 
+Elapsed time:                   56 minutes and 47 seconds
+Number of function evaluations: 1894
+Mean function evaluation time:  1.79 seconds
+
+Final result after 30 iteration(s).
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.35; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.179889
+
+Results are saved in file perceptron/optimizationResult/Global/optimizeDeltaInterval_result_DESKTOP-P1BQ8C8_01.mat.
+****************************************************************************************************
+ 
+Best parameter set returned by function differentialevolution:
+      stage1_delta_fiter1: 0.3510
+    stage1_epsilon_fiter1: 0.1000
+      stage1_delta_fiter2: 0.2510
+    stage1_epsilon_fiter2: 0.1000
+      stage1_delta_fiter3: 1.0000e-03
+    stage1_epsilon_fiter3: 0.1000
+      stage1_delta_fiter4: 0.3488
+    stage1_epsilon_fiter4: 0.1000
+      stage1_delta_fiter5: 0.3500
+    stage1_epsilon_fiter5: 0.1000
+      stage1_delta_fiter6: 1.0000e-03
+    stage1_epsilon_fiter6: 0.1000
+      stage1_delta_fiter7: 0.0051
+    stage1_epsilon_fiter7: 0.1000
+      stage1_delta_fiter8: 1.0000e-03
+    stage1_epsilon_fiter8: 0.1000
+
+Best fitness value:0.17989
+Num of iterations:30
+Trial number:1
+Random Seed Used:897
+****************************************************************************************************
+Starting 'Found Optimum Delta Interval' at Mar 15, 21:08.
+Number of possible parameter vectors: 8.18354e+11
+Results are saved in file perceptron/optimizationResult/Global/optimizeDeltaInterval_result_DESKTOP-P1BQ8C8_02.mat.
+****************************************************************************************************
+{Undefined function or variable 'parametersValidationDelta'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('differentialevolution>paramvecvalidity', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m', 2095)" style="font-weight:bold">differentialevolution>paramvecvalidity</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m',2095,0)">line 2095</a>)
+    valid = validChkHandle(objFctSettings{:}, objFctParams);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('differentialevolution>computerandominitialization', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m', 1589)" style="font-weight:bold">differentialevolution>computerandominitialization</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m',1589,0)">line 1589</a>)
+      ~paramvecvalidity(paramDefCell, objFctSettings, objFctParamsCell{n}, ...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('differentialevolution', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m', 996)" style="font-weight:bold">differentialevolution</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\differential evolution\differentialevolution.m',996,0)">line 996</a>)
+    pop = computerandominitialization(...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SystemOptimization/globalTrain', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\system\SystemOptimization.m', 184)" style="font-weight:bold">SystemOptimization/globalTrain</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\system\SystemOptimization.m',184,0)">line 184</a>)
+					DEParams, paramDefCell, objFctHandle, objFctSettings, objFctParams, emailParams,
+                    optimInfo,'',strcat(this.basePath));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimizeDeltaBoundaries', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\globalOptimization\optimizeDeltaBoundaries.m', 50)" style="font-weight:bold">optimizeDeltaBoundaries</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\architecture\globalOptimization\optimizeDeltaBoundaries.m',50,0)">line 50</a>)
+    system.globalTrain(archetypes, numShift, numTrials);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\main.m', 15)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\alfeo\Desktop\BOSCHI\SOFTWARE\w la delivery\main.m',15,0)">line 15</a>)
+optimizeDeltaBoundaries(basePath, 2, 1);
+} 
+main
+Trial number:1
+Random Seed Used:803
+****************************************************************************************************
+Starting 'Found Optimum Delta Interval' at Mar 15, 21:16.
+Number of possible parameter vectors: 8.18354e+11
+Results are saved in file perceptron/optimizationResult/Global/optimizeDeltaInterval_result_DESKTOP-P1BQ8C8_03.mat.
+****************************************************************************************************
+Initial parameter set.
+Best member:
+stage1_delta_fiter1   = 0.201; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.131; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.181; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.21; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.241; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0751; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.031; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.185845
+
+First function evaluation time: 1.85 seconds
+In initialization, 2 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.201; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.121; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.191; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2988; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.26; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.131; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1251; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.031; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.185657
+
+In initialization, 3 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.321; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.061; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.191; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.1088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.31; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1951; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.251; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.185123
+
+In initialization, 4 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.321; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.021; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.201; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.18; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.151; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.3551; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.161; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.185073
+
+Mean function evaluation time after 5 runs: 1.69 seconds
+In initialization, 6 of 160 members checked.
+ 
+Elapsed time:                   10 seconds
+Number of function evaluations: 6
+Mean function evaluation time:  1.68 seconds
+
+In initialization, 13 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.301; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.221; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.251; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3288; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.31; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.071; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.021; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.183267
+
+In initialization, 13 of 160 members checked.
+ 
+Elapsed time:                   21 seconds
+Number of function evaluations: 13
+Mean function evaluation time:  1.65 seconds
+
+In initialization, 18 of 160 members checked.
+ 
+Elapsed time:                   30 seconds
+Number of function evaluations: 18
+Mean function evaluation time:  1.68 seconds
+
+In initialization, 24 of 160 members checked.
+ 
+Elapsed time:                   40 seconds
+Number of function evaluations: 24
+Mean function evaluation time:  1.67 seconds
+
+In initialization, 31 of 160 members checked.
+ 
+Elapsed time:                   51 seconds
+Number of function evaluations: 31
+Mean function evaluation time:  1.66 seconds
+
+In initialization, 37 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.341; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.201; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.031; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.11; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.171; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.2951; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.071; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.183118
+
+In initialization, 37 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 1 second
+Number of function evaluations: 37
+Mean function evaluation time:  1.66 seconds
+
+In initialization, 43 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 10 seconds
+Number of function evaluations: 43
+Mean function evaluation time:  1.65 seconds
+
+In initialization, 49 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 20 seconds
+Number of function evaluations: 49
+Mean function evaluation time:  1.64 seconds
+
+In initialization, 56 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 31 seconds
+Number of function evaluations: 56
+Mean function evaluation time:  1.63 seconds
+
+In initialization, 62 of 160 members checked.
+Best member:
+stage1_delta_fiter1   = 0.301; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.211; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.051; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3288; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.15; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.151; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0951; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.141; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182976
+
+In initialization, 62 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 40 seconds
+Number of function evaluations: 62
+Mean function evaluation time:  1.62 seconds
+
+In initialization, 68 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 50 seconds
+Number of function evaluations: 68
+Mean function evaluation time:  1.62 seconds
+
+In initialization, 74 of 160 members checked.
+ 
+Elapsed time:                   1 minute and 59 seconds
+Number of function evaluations: 74
+Mean function evaluation time:  1.62 seconds
+
+In initialization, 81 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 11 seconds
+Number of function evaluations: 81
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 87 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 20 seconds
+Number of function evaluations: 87
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 93 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 30 seconds
+Number of function evaluations: 93
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 100 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 41 seconds
+Number of function evaluations: 100
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 106 of 160 members checked.
+ 
+Elapsed time:                   2 minutes and 50 seconds
+Number of function evaluations: 106
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 112 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 1 second
+Number of function evaluations: 112
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 118 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 10 seconds
+Number of function evaluations: 118
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 124 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 20 seconds
+Number of function evaluations: 124
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 131 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 30 seconds
+Number of function evaluations: 131
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 137 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 40 seconds
+Number of function evaluations: 137
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 143 of 160 members checked.
+ 
+Elapsed time:                   3 minutes and 50 seconds
+Number of function evaluations: 143
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 150 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 1 second
+Number of function evaluations: 150
+Mean function evaluation time:  1.61 seconds
+
+In initialization, 155 of 160 members checked.
+ 
+Elapsed time:                   4 minutes and 10 seconds
+Number of function evaluations: 155
+Mean function evaluation time:  1.61 seconds
+
+In iteration 1, 1 of 160 competitors checked.
+ 
+Elapsed time:                   4 minutes and 20 seconds
+Number of function evaluations: 161
+Mean function evaluation time:  1.61 seconds
+
+In iteration 1, 3 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.211; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2188; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.31; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1751; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.031; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182798
+
+In iteration 1, 4 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.311; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.161; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.161; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.16; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0851; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.161; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182333
+
+In iteration 1, 5 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.1488; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.11; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.101; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0451; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.081; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.182017
+
+In iteration 1, 7 of 160 competitors checked.
+ 
+Elapsed time:                   4 minutes and 31 seconds
+Number of function evaluations: 167
+Mean function evaluation time:  1.62 seconds
+
+In iteration 1, 13 of 160 competitors checked.
+ 
+Elapsed time:                   4 minutes and 41 seconds
+Number of function evaluations: 173
+Mean function evaluation time:  1.62 seconds
+
+In iteration 1, 18 of 160 competitors checked.
+ 
+Elapsed time:                   4 minutes and 50 seconds
+Number of function evaluations: 178
+Mean function evaluation time:  1.63 seconds
+
+In iteration 1, 24 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes
+Number of function evaluations: 184
+Mean function evaluation time:  1.63 seconds
+
+In iteration 1, 30 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 10 seconds
+Number of function evaluations: 190
+Mean function evaluation time:  1.63 seconds
+
+In iteration 1, 36 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 21 seconds
+Number of function evaluations: 196
+Mean function evaluation time:  1.63 seconds
+
+In iteration 1, 42 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 31 seconds
+Number of function evaluations: 202
+Mean function evaluation time:  1.64 seconds
+
+In iteration 1, 47 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 40 seconds
+Number of function evaluations: 207
+Mean function evaluation time:  1.64 seconds
+
+In iteration 1, 53 of 160 competitors checked.
+ 
+Elapsed time:                   5 minutes and 50 seconds
+Number of function evaluations: 213
+Mean function evaluation time:  1.64 seconds
+
+In iteration 1, 55 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.111; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2888; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.111; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.1351; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.221; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.181947
+
+In iteration 1, 59 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes
+Number of function evaluations: 219
+Mean function evaluation time:  1.64 seconds
+
+In iteration 1, 65 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 11 seconds
+Number of function evaluations: 225
+Mean function evaluation time:  1.64 seconds
+
+In iteration 1, 67 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.231; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.061; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.11; 
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.041; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0451; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.231; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.181143
+
+In iteration 1, 70 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 19 seconds
+Number of function evaluations: 230
+Mean function evaluation time:  1.65 seconds
+
+In iteration 1, 76 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 30 seconds
+Number of function evaluations: 236
+Mean function evaluation time:  1.65 seconds
+
+In iteration 1, 82 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 40 seconds
+Number of function evaluations: 242
+Mean function evaluation time:  1.65 seconds
+
+In iteration 1, 88 of 160 competitors checked.
+ 
+Elapsed time:                   6 minutes and 51 seconds
+Number of function evaluations: 248
+Mean function evaluation time:  1.65 seconds
+
+In iteration 1, 93 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes
+Number of function evaluations: 253
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 99 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 10 seconds
+Number of function evaluations: 259
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 105 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 20 seconds
+Number of function evaluations: 265
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 111 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 31 seconds
+Number of function evaluations: 271
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 117 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 41 seconds
+Number of function evaluations: 277
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 122 of 160 competitors checked.
+ 
+Elapsed time:                   7 minutes and 50 seconds
+Number of function evaluations: 282
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 128 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes
+Number of function evaluations: 288
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 134 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 10 seconds
+Number of function evaluations: 294
+Mean function evaluation time:  1.66 seconds
+
+In iteration 1, 140 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 21 seconds
+Number of function evaluations: 300
+Mean function evaluation time:  1.67 seconds
+
+In iteration 1, 146 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 31 seconds
+Number of function evaluations: 306
+Mean function evaluation time:  1.67 seconds
+
+In iteration 1, 151 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 40 seconds
+Number of function evaluations: 311
+Mean function evaluation time:  1.67 seconds
+
+In iteration 1, 157 of 160 competitors checked.
+ 
+Elapsed time:                   8 minutes and 50 seconds
+Number of function evaluations: 317
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 3 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes
+Number of function evaluations: 323
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 9 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 11 seconds
+Number of function evaluations: 329
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 15 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 21 seconds
+Number of function evaluations: 335
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 20 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 30 seconds
+Number of function evaluations: 340
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 26 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 40 seconds
+Number of function evaluations: 346
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 32 of 160 competitors checked.
+ 
+Elapsed time:                   9 minutes and 50 seconds
+Number of function evaluations: 352
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 38 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 1 second
+Number of function evaluations: 358
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 43 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.241; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.101; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.2988; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.321; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180721
+
+In iteration 2, 44 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 11 seconds
+Number of function evaluations: 364
+Mean function evaluation time:  1.67 seconds
+
+In iteration 2, 45 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.111; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.081; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180275
+
+In iteration 2, 49 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 20 seconds
+Number of function evaluations: 369
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 55 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 30 seconds
+Number of function evaluations: 375
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 61 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 40 seconds
+Number of function evaluations: 381
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 67 of 160 competitors checked.
+ 
+Elapsed time:                   10 minutes and 51 seconds
+Number of function evaluations: 387
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 72 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes
+Number of function evaluations: 392
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 78 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 10 seconds
+Number of function evaluations: 398
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 84 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 20 seconds
+Number of function evaluations: 404
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 90 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 31 seconds
+Number of function evaluations: 410
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 95 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 40 seconds
+Number of function evaluations: 415
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 101 of 160 competitors checked.
+ 
+Elapsed time:                   11 minutes and 50 seconds
+Number of function evaluations: 421
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 107 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes
+Number of function evaluations: 427
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 113 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 11 seconds
+Number of function evaluations: 433
+Mean function evaluation time:  1.68 seconds
+
+In iteration 2, 118 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 20 seconds
+Number of function evaluations: 438
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 124 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 30 seconds
+Number of function evaluations: 444
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 130 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 40 seconds
+Number of function evaluations: 450
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 136 of 160 competitors checked.
+ 
+Elapsed time:                   12 minutes and 51 seconds
+Number of function evaluations: 456
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 142 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 1 second
+Number of function evaluations: 462
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 147 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 10 seconds
+Number of function evaluations: 467
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 153 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 20 seconds
+Number of function evaluations: 473
+Mean function evaluation time:  1.69 seconds
+
+In iteration 2, 159 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 30 seconds
+Number of function evaluations: 479
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 5 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 41 seconds
+Number of function evaluations: 485
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 10 of 160 competitors checked.
+ 
+Elapsed time:                   13 minutes and 50 seconds
+Number of function evaluations: 490
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 16 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes
+Number of function evaluations: 496
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 22 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 10 seconds
+Number of function evaluations: 502
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 28 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 21 seconds
+Number of function evaluations: 508
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 33 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 29 seconds
+Number of function evaluations: 513
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 39 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 40 seconds
+Number of function evaluations: 519
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 45 of 160 competitors checked.
+ 
+Elapsed time:                   14 minutes and 50 seconds
+Number of function evaluations: 525
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 51 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 1 second
+Number of function evaluations: 531
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 57 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 11 seconds
+Number of function evaluations: 537
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 62 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 20 seconds
+Number of function evaluations: 542
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 68 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 30 seconds
+Number of function evaluations: 548
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 74 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 41 seconds
+Number of function evaluations: 554
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 80 of 160 competitors checked.
+ 
+Elapsed time:                   15 minutes and 51 seconds
+Number of function evaluations: 560
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 85 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes
+Number of function evaluations: 565
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 91 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 10 seconds
+Number of function evaluations: 571
+Mean function evaluation time:  1.69 seconds
+
+In iteration 3, 97 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 21 seconds
+Number of function evaluations: 577
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 103 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 31 seconds
+Number of function evaluations: 583
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 108 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 40 seconds
+Number of function evaluations: 588
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 114 of 160 competitors checked.
+ 
+Elapsed time:                   16 minutes and 50 seconds
+Number of function evaluations: 594
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 120 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 1 second
+Number of function evaluations: 600
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 126 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 11 seconds
+Number of function evaluations: 606
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 131 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 20 seconds
+Number of function evaluations: 611
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 137 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 31 seconds
+Number of function evaluations: 617
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 143 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 41 seconds
+Number of function evaluations: 623
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 148 of 160 competitors checked.
+ 
+Elapsed time:                   17 minutes and 50 seconds
+Number of function evaluations: 628
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 154 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes
+Number of function evaluations: 634
+Mean function evaluation time:  1.7 seconds
+
+In iteration 3, 160 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 11 seconds
+Number of function evaluations: 640
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 5 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 20 seconds
+Number of function evaluations: 645
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 11 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 30 seconds
+Number of function evaluations: 651
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 17 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 40 seconds
+Number of function evaluations: 657
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 23 of 160 competitors checked.
+ 
+Elapsed time:                   18 minutes and 51 seconds
+Number of function evaluations: 663
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 28 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes
+Number of function evaluations: 668
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 34 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 10 seconds
+Number of function evaluations: 674
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 40 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 21 seconds
+Number of function evaluations: 680
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 46 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 31 seconds
+Number of function evaluations: 686
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 51 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 40 seconds
+Number of function evaluations: 691
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 56 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3088; 
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0551; 
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180171
+
+In iteration 4, 57 of 160 competitors checked.
+ 
+Elapsed time:                   19 minutes and 50 seconds
+Number of function evaluations: 697
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 63 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 1 second
+Number of function evaluations: 703
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 68 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 9 seconds
+Number of function evaluations: 708
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 74 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 20 seconds
+Number of function evaluations: 714
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 80 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 30 seconds
+Number of function evaluations: 720
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 86 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 41 seconds
+Number of function evaluations: 726
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 91 of 160 competitors checked.
+ 
+Elapsed time:                   20 minutes and 50 seconds
+Number of function evaluations: 731
+Mean function evaluation time:  1.71 seconds
+
+In iteration 4, 93 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.041; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.171; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180157
+
+In iteration 4, 97 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes
+Number of function evaluations: 737
+Mean function evaluation time:  1.71 seconds
+
+In iteration 4, 103 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 10 seconds
+Number of function evaluations: 743
+Mean function evaluation time:  1.71 seconds
+
+In iteration 4, 109 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 20 seconds
+Number of function evaluations: 749
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 115 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 30 seconds
+Number of function evaluations: 755
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 121 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 39 seconds
+Number of function evaluations: 761
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 128 of 160 competitors checked.
+ 
+Elapsed time:                   21 minutes and 51 seconds
+Number of function evaluations: 768
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 134 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes
+Number of function evaluations: 774
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 140 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 10 seconds
+Number of function evaluations: 780
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 146 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 20 seconds
+Number of function evaluations: 786
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 152 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 30 seconds
+Number of function evaluations: 792
+Mean function evaluation time:  1.7 seconds
+
+In iteration 4, 158 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 39 seconds
+Number of function evaluations: 798
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 5 of 160 competitors checked.
+ 
+Elapsed time:                   22 minutes and 51 seconds
+Number of function evaluations: 805
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 11 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes
+Number of function evaluations: 811
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 17 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 10 seconds
+Number of function evaluations: 817
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 24 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 21 seconds
+Number of function evaluations: 824
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 30 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 31 seconds
+Number of function evaluations: 830
+Mean function evaluation time:  1.7 seconds
+
+In iteration 5, 36 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 40 seconds
+Number of function evaluations: 836
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 42 of 160 competitors checked.
+ 
+Elapsed time:                   23 minutes and 50 seconds
+Number of function evaluations: 842
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 48 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes
+Number of function evaluations: 848
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 55 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 11 seconds
+Number of function evaluations: 855
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 60 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 19 seconds
+Number of function evaluations: 860
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 67 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 31 seconds
+Number of function evaluations: 867
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 73 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 40 seconds
+Number of function evaluations: 873
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 79 of 160 competitors checked.
+ 
+Elapsed time:                   24 minutes and 50 seconds
+Number of function evaluations: 879
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 86 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 1 second
+Number of function evaluations: 886
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 92 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 11 seconds
+Number of function evaluations: 892
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 93 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.041; 
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.011; 
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.061; 
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.180057
+
+In iteration 5, 98 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 20 seconds
+Number of function evaluations: 898
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 104 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 30 seconds
+Number of function evaluations: 904
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 110 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 40 seconds
+Number of function evaluations: 910
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 116 of 160 competitors checked.
+ 
+Elapsed time:                   25 minutes and 50 seconds
+Number of function evaluations: 916
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 122 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes
+Number of function evaluations: 922
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 128 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 9 seconds
+Number of function evaluations: 928
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 135 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 21 seconds
+Number of function evaluations: 935
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 141 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 31 seconds
+Number of function evaluations: 941
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 147 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 41 seconds
+Number of function evaluations: 947
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 153 of 160 competitors checked.
+ 
+Elapsed time:                   26 minutes and 51 seconds
+Number of function evaluations: 953
+Mean function evaluation time:  1.69 seconds
+
+In iteration 5, 159 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes
+Number of function evaluations: 959
+Mean function evaluation time:  1.69 seconds
+
+In iteration 6, 5 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 10 seconds
+Number of function evaluations: 965
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 11 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 20 seconds
+Number of function evaluations: 971
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 17 of 160 competitors checked.
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.179754
+
+In iteration 6, 17 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 30 seconds
+Number of function evaluations: 977
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 23 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 40 seconds
+Number of function evaluations: 983
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 29 of 160 competitors checked.
+ 
+Elapsed time:                   27 minutes and 50 seconds
+Number of function evaluations: 989
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 35 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes
+Number of function evaluations: 995
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 41 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 10 seconds
+Number of function evaluations: 1001
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 47 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 20 seconds
+Number of function evaluations: 1007
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 54 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 31 seconds
+Number of function evaluations: 1014
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 60 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 41 seconds
+Number of function evaluations: 1020
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 66 of 160 competitors checked.
+ 
+Elapsed time:                   28 minutes and 51 seconds
+Number of function evaluations: 1026
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 72 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 1 second
+Number of function evaluations: 1032
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 78 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 10 seconds
+Number of function evaluations: 1038
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 84 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 20 seconds
+Number of function evaluations: 1044
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 90 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 30 seconds
+Number of function evaluations: 1050
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 96 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 39 seconds
+Number of function evaluations: 1056
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 103 of 160 competitors checked.
+ 
+Elapsed time:                   29 minutes and 50 seconds
+Number of function evaluations: 1063
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 109 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes
+Number of function evaluations: 1069
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 115 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 9 seconds
+Number of function evaluations: 1075
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 122 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 21 seconds
+Number of function evaluations: 1082
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 128 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 30 seconds
+Number of function evaluations: 1088
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 134 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 40 seconds
+Number of function evaluations: 1094
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 141 of 160 competitors checked.
+ 
+Elapsed time:                   30 minutes and 51 seconds
+Number of function evaluations: 1101
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 147 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes
+Number of function evaluations: 1107
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 153 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 10 seconds
+Number of function evaluations: 1113
+Mean function evaluation time:  1.68 seconds
+
+In iteration 6, 159 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 20 seconds
+Number of function evaluations: 1119
+Mean function evaluation time:  1.68 seconds
+
+In iteration 7, 6 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 31 seconds
+Number of function evaluations: 1126
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 12 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 41 seconds
+Number of function evaluations: 1132
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 18 of 160 competitors checked.
+ 
+Elapsed time:                   31 minutes and 50 seconds
+Number of function evaluations: 1138
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 24 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes
+Number of function evaluations: 1144
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 30 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 10 seconds
+Number of function evaluations: 1150
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 36 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 20 seconds
+Number of function evaluations: 1156
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 42 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 30 seconds
+Number of function evaluations: 1162
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 48 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 40 seconds
+Number of function evaluations: 1168
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 54 of 160 competitors checked.
+ 
+Elapsed time:                   32 minutes and 50 seconds
+Number of function evaluations: 1174
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 60 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes
+Number of function evaluations: 1180
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 66 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 11 seconds
+Number of function evaluations: 1186
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 72 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 21 seconds
+Number of function evaluations: 1192
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 78 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 31 seconds
+Number of function evaluations: 1198
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 84 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 40 seconds
+Number of function evaluations: 1204
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 90 of 160 competitors checked.
+ 
+Elapsed time:                   33 minutes and 50 seconds
+Number of function evaluations: 1210
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 96 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 1 second
+Number of function evaluations: 1216
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 102 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 11 seconds
+Number of function evaluations: 1222
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 108 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 21 seconds
+Number of function evaluations: 1228
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 115 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 31 seconds
+Number of function evaluations: 1234
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 121 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 41 seconds
+Number of function evaluations: 1240
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 127 of 160 competitors checked.
+ 
+Elapsed time:                   34 minutes and 51 seconds
+Number of function evaluations: 1246
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 133 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes
+Number of function evaluations: 1252
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 139 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 10 seconds
+Number of function evaluations: 1258
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 145 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 20 seconds
+Number of function evaluations: 1264
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 151 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 31 seconds
+Number of function evaluations: 1270
+Mean function evaluation time:  1.67 seconds
+
+In iteration 7, 157 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 40 seconds
+Number of function evaluations: 1276
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 3 of 160 competitors checked.
+ 
+Elapsed time:                   35 minutes and 50 seconds
+Number of function evaluations: 1282
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 9 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes
+Number of function evaluations: 1288
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 16 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 11 seconds
+Number of function evaluations: 1295
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 22 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 21 seconds
+Number of function evaluations: 1301
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 28 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 31 seconds
+Number of function evaluations: 1307
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 34 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 41 seconds
+Number of function evaluations: 1313
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 40 of 160 competitors checked.
+ 
+Elapsed time:                   36 minutes and 50 seconds
+Number of function evaluations: 1319
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 46 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes
+Number of function evaluations: 1325
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 52 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 10 seconds
+Number of function evaluations: 1331
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 58 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 20 seconds
+Number of function evaluations: 1337
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 64 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 30 seconds
+Number of function evaluations: 1343
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 70 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 40 seconds
+Number of function evaluations: 1349
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 76 of 160 competitors checked.
+ 
+Elapsed time:                   37 minutes and 50 seconds
+Number of function evaluations: 1355
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 82 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes
+Number of function evaluations: 1361
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 88 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 10 seconds
+Number of function evaluations: 1367
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 94 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 21 seconds
+Number of function evaluations: 1373
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 100 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 31 seconds
+Number of function evaluations: 1379
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 106 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 41 seconds
+Number of function evaluations: 1385
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 112 of 160 competitors checked.
+ 
+Elapsed time:                   38 minutes and 51 seconds
+Number of function evaluations: 1391
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 117 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes
+Number of function evaluations: 1396
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 123 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 10 seconds
+Number of function evaluations: 1402
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 130 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 21 seconds
+Number of function evaluations: 1409
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 136 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 31 seconds
+Number of function evaluations: 1415
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 142 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 41 seconds
+Number of function evaluations: 1421
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 148 of 160 competitors checked.
+ 
+Elapsed time:                   39 minutes and 50 seconds
+Number of function evaluations: 1427
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 154 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes
+Number of function evaluations: 1433
+Mean function evaluation time:  1.67 seconds
+
+In iteration 8, 160 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 10 seconds
+Number of function evaluations: 1439
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 8 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 20 seconds
+Number of function evaluations: 1445
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 15 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 30 seconds
+Number of function evaluations: 1451
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 22 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 40 seconds
+Number of function evaluations: 1457
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 28 of 160 competitors checked.
+ 
+Elapsed time:                   40 minutes and 50 seconds
+Number of function evaluations: 1463
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 35 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes
+Number of function evaluations: 1469
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 41 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 10 seconds
+Number of function evaluations: 1475
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 47 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 20 seconds
+Number of function evaluations: 1481
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 55 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 30 seconds
+Number of function evaluations: 1487
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 62 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 40 seconds
+Number of function evaluations: 1493
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 69 of 160 competitors checked.
+ 
+Elapsed time:                   41 minutes and 50 seconds
+Number of function evaluations: 1499
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 77 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 1 second
+Number of function evaluations: 1506
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 83 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 10 seconds
+Number of function evaluations: 1511
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 93 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 21 seconds
+Number of function evaluations: 1518
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 99 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 31 seconds
+Number of function evaluations: 1524
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 105 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 41 seconds
+Number of function evaluations: 1530
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 111 of 160 competitors checked.
+ 
+Elapsed time:                   42 minutes and 49 seconds
+Number of function evaluations: 1535
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 118 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 1 second
+Number of function evaluations: 1542
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 124 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 10 seconds
+Number of function evaluations: 1548
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 131 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 20 seconds
+Number of function evaluations: 1554
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 137 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 30 seconds
+Number of function evaluations: 1560
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 143 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 40 seconds
+Number of function evaluations: 1566
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 151 of 160 competitors checked.
+ 
+Elapsed time:                   43 minutes and 51 seconds
+Number of function evaluations: 1573
+Mean function evaluation time:  1.67 seconds
+
+In iteration 9, 157 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 1 second
+Number of function evaluations: 1579
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 5 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 11 seconds
+Number of function evaluations: 1585
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 14 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 20 seconds
+Number of function evaluations: 1591
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 21 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 30 seconds
+Number of function evaluations: 1597
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 29 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 40 seconds
+Number of function evaluations: 1603
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 35 of 160 competitors checked.
+ 
+Elapsed time:                   44 minutes and 50 seconds
+Number of function evaluations: 1609
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 43 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes
+Number of function evaluations: 1615
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 55 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 10 seconds
+Number of function evaluations: 1621
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 67 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 20 seconds
+Number of function evaluations: 1627
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 74 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 30 seconds
+Number of function evaluations: 1633
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 82 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 40 seconds
+Number of function evaluations: 1639
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 88 of 160 competitors checked.
+ 
+Elapsed time:                   45 minutes and 50 seconds
+Number of function evaluations: 1645
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 98 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes
+Number of function evaluations: 1651
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 106 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 10 seconds
+Number of function evaluations: 1657
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 114 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 20 seconds
+Number of function evaluations: 1663
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 124 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 30 seconds
+Number of function evaluations: 1669
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 131 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 40 seconds
+Number of function evaluations: 1675
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 139 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 50 seconds
+Number of function evaluations: 1681
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 148 of 160 competitors checked.
+ 
+Elapsed time:                   46 minutes and 59 seconds
+Number of function evaluations: 1687
+Mean function evaluation time:  1.67 seconds
+
+In iteration 10, 158 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 11 seconds
+Number of function evaluations: 1694
+Mean function evaluation time:  1.67 seconds
+
+Iteration 10 finished.
+In iteration 11, 4 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 20 seconds
+Number of function evaluations: 1700
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 16 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 30 seconds
+Number of function evaluations: 1706
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 28 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 40 seconds
+Number of function evaluations: 1712
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 45 of 160 competitors checked.
+ 
+Elapsed time:                   47 minutes and 51 seconds
+Number of function evaluations: 1719
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 61 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 1 second
+Number of function evaluations: 1725
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 74 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 10 seconds
+Number of function evaluations: 1731
+Mean function evaluation time:  1.67 seconds
+
+In iteration 11, 85 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 20 seconds
+Number of function evaluations: 1737
+Mean function evaluation time:  1.66 seconds
+
+In iteration 11, 98 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 30 seconds
+Number of function evaluations: 1743
+Mean function evaluation time:  1.66 seconds
+
+In iteration 11, 114 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 40 seconds
+Number of function evaluations: 1749
+Mean function evaluation time:  1.66 seconds
+
+In iteration 11, 128 of 160 competitors checked.
+ 
+Elapsed time:                   48 minutes and 51 seconds
+Number of function evaluations: 1756
+Mean function evaluation time:  1.66 seconds
+
+In iteration 11, 146 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes
+Number of function evaluations: 1762
+Mean function evaluation time:  1.66 seconds
+
+In iteration 11, 156 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 10 seconds
+Number of function evaluations: 1768
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 9 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 20 seconds
+Number of function evaluations: 1774
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 27 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 30 seconds
+Number of function evaluations: 1780
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 51 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 40 seconds
+Number of function evaluations: 1786
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 72 of 160 competitors checked.
+ 
+Elapsed time:                   49 minutes and 51 seconds
+Number of function evaluations: 1792
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 95 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 1 second
+Number of function evaluations: 1798
+Mean function evaluation time:  1.66 seconds
+
+In iteration 12, 131 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 11 seconds
+Number of function evaluations: 1804
+Mean function evaluation time:  1.66 seconds
+
+In iteration 13, 6 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 20 seconds
+Number of function evaluations: 1810
+Mean function evaluation time:  1.66 seconds
+
+In iteration 13, 70 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 30 seconds
+Number of function evaluations: 1816
+Mean function evaluation time:  1.66 seconds
+
+In iteration 14, 37 of 160 competitors checked.
+ 
+Elapsed time:                   50 minutes and 40 seconds
+Number of function evaluations: 1822
+Mean function evaluation time:  1.66 seconds
+
+Iteration 20 finished.
+ 
+****************************************************************************************************
+'Found Optimum Delta Interval' finished after given maximum number of 30 iterations.
+ 
+Elapsed time:                   50 minutes and 46 seconds
+Number of function evaluations: 1825
+Mean function evaluation time:  1.66 seconds
+
+Final result after 30 iteration(s).
+Best member:
+stage1_delta_fiter1   = 0.351; 
+stage1_epsilon_fiter1 = 0.1; % (boundary value)
+stage1_delta_fiter2   = 0.251; 
+stage1_epsilon_fiter2 = 0.1; % (boundary value)
+stage1_delta_fiter3   = 0.001; % (boundary value)
+stage1_epsilon_fiter3 = 0.1; % (boundary value)
+stage1_delta_fiter4   = 0.3488; % (boundary value)
+stage1_epsilon_fiter4 = 0.1; % (boundary value)
+stage1_delta_fiter5   = 0.1; % (boundary value)
+stage1_epsilon_fiter5 = 0.1; % (boundary value)
+stage1_delta_fiter6   = 0.001; % (boundary value)
+stage1_epsilon_fiter6 = 0.1; % (boundary value)
+stage1_delta_fiter7   = 0.0051; % (boundary value)
+stage1_epsilon_fiter7 = 0.1; % (boundary value)
+stage1_delta_fiter8   = 0.001; % (boundary value)
+stage1_epsilon_fiter8 = 0.1; % (boundary value)
+Evaluation value: 0.179754
+
+Results are saved in file perceptron/optimizationResult/Global/optimizeDeltaInterval_result_DESKTOP-P1BQ8C8_03.mat.
+****************************************************************************************************
+ 
+Best parameter set returned by function differentialevolution:
+      stage1_delta_fiter1: 0.3510
+    stage1_epsilon_fiter1: 0.1000
+      stage1_delta_fiter2: 0.2510
+    stage1_epsilon_fiter2: 0.1000
+      stage1_delta_fiter3: 1.0000e-03
+    stage1_epsilon_fiter3: 0.1000
+      stage1_delta_fiter4: 0.3488
+    stage1_epsilon_fiter4: 0.1000
+      stage1_delta_fiter5: 0.1000
+    stage1_epsilon_fiter5: 0.1000
+      stage1_delta_fiter6: 1.0000e-03
+    stage1_epsilon_fiter6: 0.1000
+      stage1_delta_fiter7: 0.0051
+    stage1_epsilon_fiter7: 0.1000
+      stage1_delta_fiter8: 1.0000e-03
+    stage1_epsilon_fiter8: 0.1000
+
+Best fitness value:0.17975
+Num of iterations:30

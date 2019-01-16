@@ -1,0 +1,111 @@
+HOT TO USE  THE STIGMERGIC PERCEPTRON
+
+PHASE 0: PREREQUISITES AND ANALYSIS FEATURES
+1) 	Signal Length (SL): each signal must represent an whole phenomenon to be studied (for example the frequency of taxi activity in a certain area, 
+	during a whole day) and all signals must have the same length (i.e. number of samples).
+2) 	Time Windows(TW): it is necessary to define the expected length (in samples) of a desired behaviour (archetypal signal). This can be defined by 
+	an expert in the field or found via exploratory analysis.
+3) 	The archetypes to search for can be defined by an expert or found by exploratory analysis. Each archetype HAS TO be a signals of TW length, with values 
+	between 0 and 1, and defined among 3 different level of  interest (let's say LOW-MEDIUM-HIGH). The archetypal signals MUST be inserted MANUALLY in 
+	archetypes.m (the same for the archetypesName.mat).
+4) 	In the file "main.m" the variable basePath must be initialized to the path in which all the data needed for the analysis are contained (default is 
+	'perceptron');
+5) 	Most of the features can be changed by working on the code, but we recommend to use the default values when they are present.
+6) 	All the files detailed below MUST exist and be properly initialized BEFORE any execution of the system (see the examples in the folder). 
+	The 'perceptron' folder contains:
+- 	archetypes.m 		= 	MUST contains a matrix NxTW of synthetic signal, each row corresponds to an archetypes. The archetypes MUST be sorted 
+							according to their similarity. E.g. archetype 1 must be similar to archetype 2 and very different from archetype 7. 
+							See the example in the folder.
+- 	archetypesName.m 	= 	contains a cell array of N strings corresponding to the name of each archetype. This file MUST be initialized manually 
+							BEFORE any execution. 
+- 	parametersBound.mat = 	the values in this file can be updated MANUALLY but must already EXISTS at execution time as it is. This mean that rows can 
+							be added (each row contains the parameters for a given archetype), their values can be changed but the overall structure 
+							(top boundary, bottom boundary and actual value for EACH parameter) and the parameters' name MUST be the same.
+- 	rawSignals.mat 		= 	contains a cell array of M element. Each cell contains an array 1xSL corresponding to a whole phenomenon to be 
+							analyzed.
+- 	others 				= 	all the other files (training.m, trainingSignalClassification.m, signals.m, optimizedParameters.m, output.m, ) in the folder
+							are output file computed by the perceptron procedures, we leave it there in order to provide an example of the output files. 
+							In any case they will be overwritten in the next execution of the code. 
+
+
+PHASE 1: syntheticSignals( basePath, correctionFactor, temporalShiftFactor, spatialShift, signalsPerClass )
+NOTE
+It loads the archetypes contained in the basePath folder and generates the signals aimed at training the perceptron
+INPUT
+correctionFactor 	-> 	correction factor depending on the maximum normalized value the signal can assume (default = 1) 
+temporalShiftFactor -> 	percentage of maximum temporal shift of base signals
+spatialShift 		-> 	base signal spatial noise
+signalsPerClass 	-> 	number of signals per class to generate
+OUTPUT
+- 	the obtained training signals will be plotted on screen and saved in the folder "archtypesGraph".
+- 	trainingSignals = a cell array of N cells, each cell contains a bunch of TS signals with which the SRF of each archetype will be trained. These  
+	data are int he form of matrix SMx10, basically we have 10 training signal for each archetype and each signal is composed of SM samples.
+- 	trainingSignalClassification = a matrix Nx10 in which each row contains the expected classification of the actual training signal. Basically, 
+	is a matrix in which each row contains its index. 
+
+PHASE 2:
+optimizeDeltaBoundaries( basePath, varargin )
+NOTE
+It is the automatic part of the GlobalOptimization aimed at find a suitable boundaries for trailEvaporation, the boundaries for other parameters 
+(see parametersBound.mat) have to be chosen via heuristic and inserted MANUALLY BEFORE executing this function.
+INPUT
+basePath 	-> 	folder (without final '/') where archetypes.mat and parametersBound.mat are stored
+varargin 	-> 	extra comma separated parameters to set respectively the number of shifts and the number of trials that the Differential evolution 
+				algorithm shall use. If not specified, the default parameters used are 2 (number of shifts) and 5 (number of trials)
+ES. 
+optimizeDeltaBoundaries('perceptron');
+optimizeDeltaBoundaries('perceptron', 2, 5);
+OUTPUT
+It updates the parametersBound.mat structure with the values obtained for the trailEvaporation.
+Moreover, both the training procedures (optimizeDeltaBoundaries, firstLevelPerceptronDoubelC) save the details about the training process (produced by 
+differential evolution) in the folder "optimizationResults" in Global and Local respectively.
+
+PHASE 3: raw2windows( basePath, overlappingFactor, varargin)
+NOTE
+It normalizes the rawSignal and generates the file signal.m by using overlapping windows with TW length.
+INPUT
+basePath 			-> 	folder (without final '/') where rawSignal.mat is stored
+overlappingFactor 	-> 	denominator of the fraction with which the windows should be overlapped. 2 is recommended.
+OUTPUT
+- 	signals.mat = a cell array of J cells where J is the number of macro-unit of time (e.g. days), each cell contains the data for each macro-unit of 
+	time as a matrix KxM, where K is the number of samples for each micro-unit of time and M is the number of micro-unit of time (e.g. time windows of 15 minutes)
+
+PHASE 4: firstLevelPerceptronDoubelC(basePath, training, compute)
+NOTE
+Train the perceptron to recognize the archetypes and analyze the data in order to produce the output signal
+INPUT
+basePath -> 	folder (without final '/') where signal.mat is stored
+training -> 	boolean, if true the training of  the perceptron is executed 
+compute  -> 	boolean, if true the output signal (i.e. the time series of the joint similarity w.r.t. the archetypes) is computed
+At line 180 of firstLevelPerceptronDoubelC it is possible to choose if the SRF-Aggregator will work with weighted mean or regular mean
+    srfAggregator: 	0: weighted mean all SRF
+					1: weighted mean around (i.e. taking archetype closest to the one which exhibits the) max similarity
+OUTPUT
+- 	If training procedure is enabled, it updates parametersBound.m with the optimal values found and it produces also a backup of the optimum parameters
+	found (optimizedParameters.mat)  
+- 	If computation procedure is enabled, it produces the file output.mat containing:
+		'signalsOut', containing the outcome of the Stigmergic Perceptron
+		'similarities', containing the collection of all the outcome of the activation procedure obtained with each time windows analyzed by each SRF
+		'rawSimilarities', containing the collection of all the outcome of the similarity procedure obtained with each time windows analyzed by each SRF
+		'sigmoidedSignals', containing the collection of all the outcome of the clumping procedure obtained with each time windows analyzed by each SRF
+		'stigmergicTrailSignals', containing the collection of all the trail obtained with each time windows analyzed by each SRF
+		'system',  containing further details of each SRF execution
+
+Copyright (c) 2018, M. G.C.A. Cimino (mario.cimino@unipi.it), G. Vaglini (gigliola.vaglini@unipi.it), A. L. Alfeo (antonio.alfeo@ing.unipi.it), A. Lazzeri, E. Boschi, L. De Bianchi, S. Stoduto.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in
+      the documentation and/or other materials provided with the distribution
+	* Any use of this code with or without modification, must cite the authors and explicitly show the link to the repository of the code
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
